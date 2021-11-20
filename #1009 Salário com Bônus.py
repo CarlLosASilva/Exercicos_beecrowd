@@ -22,3 +22,4 @@ vendas_mes = float(input())
 comissao = 0.15  # Comissão = 15%
 salario_mais_comissao = (vendas_mes * comissao) + salario
 print("TOTAL = R$ %0.2f" % salario_mais_comissao)
+
